@@ -1,0 +1,1 @@
+const offerLink = "https://is.gd/r7cB6z"
